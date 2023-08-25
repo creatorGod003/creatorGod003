@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦🏽 I am currently learning Frontend and AI/ML.<br>✅ Open for collaborations/contributions<br>✨ Love to solve real-world problems <br>📍Looking for Opportunities<br><br>
+👦🏽 I am currently learning Full stack development.<br>✅ Open for collaborations/contributions<br>✨ Love to solve real-world problems <br>📍Looking for Opportunities<br><br>
 
 
 ## 🌐 Socials:
